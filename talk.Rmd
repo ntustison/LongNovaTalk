@@ -1,0 +1,482 @@
+---
+title: "Longitudinal Novartis"
+author: Nick Tustison
+date: August 21, 2014
+output:
+  revealjs_presentation:
+    pandoc_args: [ "--slide-level", "2" ]
+    incremental: false
+    widescreen: false
+    smaller: true
+    theme: night
+    transition: fade
+    highlight: pygments
+    center: true
+    self_contained: false
+---
+
+
+# NOV01
+
+## NOV01 -- 20120815 (1)
+
+![](figures/montage_NOV01_20120815_1.png)
+
+## NOV01 -- 20120815 (2)
+
+![](figures/montage_NOV01_20120815_2.png)
+
+## NOV01 -- 20120815 (3)
+
+![](figures/montage_NOV01_20120815_3.png)
+
+## NOV01 -- 20120817 (1)
+
+![](figures/montage_NOV01_20120817_1.png)
+
+## NOV01 -- 20120817 (2)
+
+![](figures/montage_NOV01_20120817_2.png)
+
+## NOV01 -- 20120817 (3)
+
+![](figures/montage_NOV01_20120817_3.png)
+
+## NOV01 -- 20120821 (1)
+
+![](figures/montage_NOV01_20120821_1.png)
+
+## NOV01 -- 20120821 (2)
+
+![](figures/montage_NOV01_20120821_2.png)
+
+## NOV01 -- 20120821 (3)
+
+![](figures/montage_NOV01_20120821_3.png)
+
+# NOV02
+
+## NOV02 -- 20120917 (1)
+
+![](figures/montage_NOV02_20120917_1.png)
+
+## NOV02 -- 20120917 (2)
+
+![](figures/montage_NOV02_20120917_2.png)
+
+## NOV02 -- 20120917 (3)
+
+![](figures/montage_NOV02_20120917_3.png)
+
+## NOV02 -- 20120919 (1)
+
+![](figures/montage_NOV02_20120919_1.png)
+
+## NOV02 -- 20120919 (2)
+
+![](figures/montage_NOV02_20120919_2.png)
+
+## NOV02 -- 20120919 (3)
+
+![](figures/montage_NOV02_20120919_3.png)
+
+## NOV02 -- 20120924 (1)
+
+![](figures/montage_NOV02_20120924_1.png)
+
+## NOV02 -- 20120924 (2)
+
+![](figures/montage_NOV02_20120924_2.png)
+
+## NOV02 -- 20120924 (3)
+
+![](figures/montage_NOV02_20120924_3.png)
+
+# NOV03
+
+## NOV03 -- 20130107 (1)
+
+![](figures/montage_NOV03_20130107_1.png)
+
+## NOV03 -- 20130107 (2)
+
+![](figures/montage_NOV03_20130107_2.png)
+
+## NOV03 -- 20130107 (3)
+
+![](figures/montage_NOV03_20130107_3.png)
+
+## NOV03 -- 20130109 (1)
+
+![](figures/montage_NOV03_20130109_1.png)
+
+## NOV03 -- 20130109 (2)
+
+![](figures/montage_NOV03_20130109_2.png)
+
+## NOV03 -- 20130109 (3)
+
+![](figures/montage_NOV03_20130109_3.png)
+
+## NOV03 -- 20130114 (1)
+
+![](figures/montage_NOV03_20130114_1.png)
+
+## NOV03 -- 20130114 (2)
+
+![](figures/montage_NOV03_20130114_2.png)
+
+## NOV03 -- 20130114 (3)
+
+![](figures/montage_NOV03_20130114_3.png)
+
+# NOV04
+
+## NOV04 -- 20130320 (1)
+
+![](figures/montage_NOV04_20130320_1.png)
+
+## NOV04 -- 20130320 (2)
+
+![](figures/montage_NOV04_20130320_2.png)
+
+## NOV04 -- 20130320 (3)
+
+![](figures/montage_NOV04_20130320_3.png)
+
+# NOV05
+
+## NOV05 -- 20130405 (1)
+
+![](figures/montage_NOV05_20130405_1.png)
+
+## NOV05 -- 20130405 (2)
+
+![](figures/montage_NOV05_20130405_2.png)
+
+## NOV05 -- 20130405 (3)
+
+![](figures/montage_NOV05_20130405_3.png)
+
+# NOV06
+
+## NOV06 -- 20130409 (1)
+
+![](figures/montage_NOV06_20130409_1.png)
+
+## NOV06 -- 20130409 (2)
+
+![](figures/montage_NOV06_20130409_2.png)
+
+## NOV06 -- 20130409 (3)
+
+![](figures/montage_NOV06_20130409_3.png)
+
+# NOV07
+
+## NOV07 -- 20130415 (1)
+
+![](figures/montage_NOV07_20130415_1.png)
+
+## NOV07 -- 20130415 (2)
+
+![](figures/montage_NOV07_20130415_2.png)
+
+## NOV07 -- 20130415 (3)
+
+![](figures/montage_NOV07_20130415_3.png)
+
+# NOV08
+
+## NOV08 -- 20130508 (1)
+
+![](figures/montage_NOV08_20130508_1.png)
+
+## NOV08 -- 20130508 (2)
+
+![](figures/montage_NOV08_20130508_2.png)
+
+## NOV08 -- 20130508 (3)
+
+![](figures/montage_NOV08_20130508_3.png)
+
+# NOV09
+
+## NOV09 -- 20130530 (1)
+
+![](figures/montage_NOV09_20130530_1.png)
+
+## NOV09 -- 20130530 (2)
+
+![](figures/montage_NOV09_20130530_2.png)
+
+## NOV09 -- 20130530 (3)
+
+![](figures/montage_NOV09_20130530_3.png)
+
+## NOV09 -- 20130603 (1)
+
+![](figures/montage_NOV09_20130603_1.png)
+
+## NOV09 -- 20130603 (2)
+
+![](figures/montage_NOV09_20130603_2.png)
+
+## NOV09 -- 20130605 (3)
+
+![](figures/montage_NOV09_20130605_3.png)
+
+## NOV09 -- 20130605 (1)
+
+![](figures/montage_NOV09_20130605_1.png)
+
+## NOV09 -- 20130605 (2)
+
+![](figures/montage_NOV09_20130605_2.png)
+
+# NOV10
+
+## NOV10 -- 20130606 (3)
+
+![](figures/montage_NOV10_20130606_3.png)
+
+## NOV10 -- 20130606 (1)
+
+![](figures/montage_NOV10_20130606_1.png)
+
+## NOV10 -- 20130606 (2)
+
+![](figures/montage_NOV10_20130606_2.png)
+
+# NOV11
+
+## NOV11 -- 20130624 (3)
+
+![](figures/montage_NOV11_20130624_3.png)
+
+## NOV11 -- 20130624 (1)
+
+![](figures/montage_NOV11_20130624_1.png)
+
+## NOV11 -- 20130624 (2)
+
+![](figures/montage_NOV11_20130624_2.png)
+
+## NOV11 -- 20130627 (3)
+
+![](figures/montage_NOV11_20130627_3.png)
+
+## NOV11 -- 20130627 (1)
+
+![](figures/montage_NOV11_20130627_1.png)
+
+## NOV11 -- 20130627 (2)
+
+![](figures/montage_NOV11_20130627_2.png)
+
+## NOV11 -- 20130702 (3)
+
+![](figures/montage_NOV11_20130702_3.png)
+
+## NOV11 -- 20130702 (1)
+
+![](figures/montage_NOV11_20130702_1.png)
+
+## NOV11 -- 20130702 (2)
+
+![](figures/montage_NOV11_20130702_2.png)
+
+# NOV12
+
+## NOV12 -- 20130708 (3)
+
+![](figures/montage_NOV12_20130708_3.png)
+
+## NOV12 -- 20130708 (1)
+
+![](figures/montage_NOV12_20130708_1.png)
+
+## NOV12 -- 20130708 (2)
+
+![](figures/montage_NOV12_20130708_2.png)
+
+## NOV12 -- 20130713 (3)
+
+![](figures/montage_NOV12_20130713_3.png)
+
+## NOV12 -- 20130713 (1)
+
+![](figures/montage_NOV12_20130713_1.png)
+
+## NOV12 -- 20130713 (2)
+
+![](figures/montage_NOV12_20130713_2.png)
+
+## NOV12 -- 20130716 (3)
+
+![](figures/montage_NOV12_20130716_3.png)
+
+## NOV12 -- 20130716 (1)
+
+![](figures/montage_NOV12_20130716_1.png)
+
+## NOV12 -- 20130716 (2)
+
+![](figures/montage_NOV12_20130716_2.png)
+
+# NOV13
+
+## NOV13 -- 20130715 (3)
+
+![](figures/montage_NOV13_20130715_3.png)
+
+## NOV13 -- 20130715 (1)
+
+![](figures/montage_NOV13_20130715_1.png)
+
+## NOV13 -- 20130715 (2)
+
+![](figures/montage_NOV13_20130715_2.png)
+
+## NOV13 -- 20130719 (3)
+
+![](figures/montage_NOV13_20130719_3.png)
+
+## NOV13 -- 20130719 (1)
+
+![](figures/montage_NOV13_20130719_1.png)
+
+## NOV13 -- 20130719 (2)
+
+![](figures/montage_NOV13_20130719_2.png)
+
+## NOV13 -- 20130723 (3)
+
+![](figures/montage_NOV13_20130723_3.png)
+
+## NOV13 -- 20130723 (1)
+
+![](figures/montage_NOV13_20130723_1.png)
+
+## NOV13 -- 20130723 (2)
+
+![](figures/montage_NOV13_20130723_2.png)
+
+# NOV14
+
+## NOV14 -- 20130722 (3)
+
+![](figures/montage_NOV14_20130722_3.png)
+
+## NOV14 -- 20130722 (1)
+
+![](figures/montage_NOV14_20130722_1.png)
+
+## NOV14 -- 20130722 (2)
+
+![](figures/montage_NOV14_20130722_2.png)
+
+## NOV14 -- 20130724 (3)
+
+![](figures/montage_NOV14_20130724_3.png)
+
+## NOV14 -- 20130724 (1)
+
+![](figures/montage_NOV14_20130724_1.png)
+
+## NOV14 -- 20130724 (2)
+
+![](figures/montage_NOV14_20130724_2.png)
+
+## NOV14 -- 20130730 (3)
+
+![](figures/montage_NOV14_20130730_3.png)
+
+## NOV14 -- 20130730 (1)
+
+![](figures/montage_NOV14_20130730_1.png)
+
+## NOV14 -- 20130730 (2)
+
+![](figures/montage_NOV14_20130730_2.png)
+
+# NOV15
+
+## NOV15 -- 20130805 (3)
+
+![](figures/montage_NOV15_20130805_3.png)
+
+## NOV15 -- 20130805 (1)
+
+![](figures/montage_NOV15_20130805_1.png)
+
+## NOV15 -- 20130805 (2)
+
+![](figures/montage_NOV15_20130805_2.png)
+
+# NOV16
+
+## NOV16 -- 20130808 (3)
+
+![](figures/montage_NOV16_20130808_3.png)
+
+## NOV16 -- 20130808 (1)
+
+![](figures/montage_NOV16_20130808_1.png)
+
+## NOV16 -- 20130808 (2)
+
+![](figures/montage_NOV16_20130808_2.png)
+
+# NOV17
+
+## NOV17 -- 20140124 (3)
+
+![](figures/montage_NOV17_20140124_3.png)
+
+## NOV17 -- 20140124 (1)
+
+![](figures/montage_NOV17_20140124_1.png)
+
+## NOV17 -- 20140124 (2)
+
+![](figures/montage_NOV17_20140124_2.png)
+
+# NOV18
+
+## NOV18 -- 20140221 (3)
+
+![](figures/montage_NOV18_20140221_3.png)
+
+## NOV18 -- 20140221 (1)
+
+![](figures/montage_NOV18_20140221_1.png)
+
+## NOV18 -- 20140221 (2)
+
+![](figures/montage_NOV18_20140221_2.png)
+
+## NOV18 -- 20140225 (3)
+
+![](figures/montage_NOV18_20140225_3.png)
+
+## NOV18 -- 20140225 (1)
+
+![](figures/montage_NOV18_20140225_1.png)
+
+## NOV18 -- 20140225 (2)
+
+![](figures/montage_NOV18_20140225_2.png)
+
+## NOV18 -- 20140228 (3)
+
+![](figures/montage_NOV18_20140228_3.png)
+
+## NOV18 -- 20140228 (1)
+
+![](figures/montage_NOV18_20140228_1.png)
+
+## NOV18 -- 20140228 (2)
+
+![](figures/montage_NOV18_20140228_2.png)
+
