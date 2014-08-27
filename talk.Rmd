@@ -15,6 +15,7 @@ output:
     self_contained: false
 ---
 
+# Segmentations
 
 # NOV01
 
@@ -479,4 +480,189 @@ output:
 ## NOV18 -- 20140228 (3)
 
 ![](figures/montage_NOV18_20140228_3.png)
+
+
+# Concavity maps
+
+## Concavity distribution
+
+![](figures/concativityDistribution.png)
+
+
+# NOV01
+
+## NOV01 -- 20120815
+
+![](figures/combinedMontage_NOV01_20120815.png)
+
+## NOV01 -- 20120817
+
+![](figures/combinedMontage_NOV01_20120817.png)
+
+## NOV01 -- 20120821
+
+![](figures/combinedMontage_NOV01_20120821.png)
+
+# NOV02
+
+## NOV02 -- 20120917
+
+![](figures/combinedMontage_NOV02_20120917.png)
+
+## NOV02 -- 20120919
+
+![](figures/combinedMontage_NOV02_20120919.png)
+
+## NOV02 -- 20120924
+
+![](figures/combinedMontage_NOV02_20120924.png)
+
+# NOV03
+
+## NOV03 -- 20130107
+
+![](figures/combinedMontage_NOV03_20130107.png)
+
+## NOV03 -- 20130109
+
+![](figures/combinedMontage_NOV03_20130109.png)
+
+## NOV03 -- 20130114
+
+![](figures/combinedMontage_NOV03_20130114.png)
+
+# NOV04
+
+## NOV04 -- 20130320
+
+![](figures/combinedMontage_NOV04_20130320.png)
+
+# NOV05
+
+## NOV05 -- 20130405
+
+![](figures/combinedMontage_NOV05_20130405.png)
+
+# NOV06
+
+## NOV06 -- 20130409
+
+![](figures/combinedMontage_NOV06_20130409.png)
+
+# NOV07
+
+## NOV07 -- 20130415
+
+![](figures/combinedMontage_NOV07_20130415.png)
+
+# NOV08
+
+## NOV08 -- 20130508
+
+![](figures/combinedMontage_NOV08_20130508.png)
+
+# NOV09
+
+## NOV09 -- 20130530
+
+![](figures/combinedMontage_NOV09_20130530.png)
+
+## NOV09 -- 20130605
+
+![](figures/combinedMontage_NOV09_20130605.png)
+
+# NOV10
+
+## NOV10 -- 20130606
+
+![](figures/combinedMontage_NOV10_20130606.png)
+
+# NOV11
+
+## NOV11 -- 20130624
+
+![](figures/combinedMontage_NOV11_20130624.png)
+
+## NOV11 -- 20130627
+
+![](figures/combinedMontage_NOV11_20130627.png)
+
+## NOV11 -- 20130702
+
+![](figures/combinedMontage_NOV11_20130702.png)
+
+# NOV12
+
+## NOV12 -- 20130708
+
+![](figures/combinedMontage_NOV12_20130708.png)
+
+## NOV12 -- 20130713
+
+![](figures/combinedMontage_NOV12_20130713.png)
+
+## NOV12 -- 20130716
+
+![](figures/combinedMontage_NOV12_20130716.png)
+
+# NOV13
+
+## NOV13 -- 20130715
+
+![](figures/combinedMontage_NOV13_20130715.png)
+
+## NOV13 -- 20130719
+
+![](figures/combinedMontage_NOV13_20130719.png)
+
+## NOV13 -- 20130723
+
+![](figures/combinedMontage_NOV13_20130723.png)
+
+# NOV14
+
+## NOV14 -- 20130722
+
+![](figures/combinedMontage_NOV14_20130722.png)
+
+## NOV14 -- 20130724
+
+![](figures/combinedMontage_NOV14_20130724.png)
+
+## NOV14 -- 20130730
+
+![](figures/combinedMontage_NOV14_20130730.png)
+
+# NOV15
+
+## NOV15 -- 20130805
+
+![](figures/combinedMontage_NOV15_20130805.png)
+
+# NOV16
+
+## NOV16 -- 20130808
+
+![](figures/combinedMontage_NOV16_20130808.png)
+
+# NOV17
+
+## NOV17 -- 20140124
+
+![](figures/combinedMontage_NOV17_20140124.png)
+
+# NOV18
+
+## NOV18 -- 20140221
+
+![](figures/combinedMontage_NOV18_20140221.png)
+
+## NOV18 -- 20140225
+
+![](figures/combinedMontage_NOV18_20140225.png)
+
+## NOV18 -- 20140228
+
+![](figures/combinedMontage_NOV18_20140228.png)
+
 
